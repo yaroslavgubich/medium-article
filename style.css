@@ -24,7 +24,7 @@ body {
 .banner {
   height: 50vh;
   width: 100%;
-  background-image: url(/medium-article/images/medium_background2.webp);
+  background-image: url(images/medium_background2.webp);
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -59,8 +59,8 @@ h2 {
 }
 h1 {
   color: var(--h1-color);
-      text-shadow: #525252 1px 1px 1px;
-      z-index: 1;
+  text-shadow: #525252 1px 1px 1px;
+  z-index: 1;
 }
 
 a {
